@@ -1,0 +1,3 @@
+|NRO:          1|EDAD:          1|DNI:          1|APELLIDO:      holis|NOMBRE:      holis
+|NRO:          2|EDAD:          2|DNI:          2|APELLIDO:       holu|NOMBRE:       holu
+|NRO:          3|EDAD:          3|DNI:          3|APELLIDO:       hole|NOMBRE:       hole

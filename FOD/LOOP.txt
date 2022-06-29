@@ -1,0 +1,10 @@
+textcolor(red);
+while (loop) do begin
+		write ('SI INGRESA CUALQUIER CARACTER SE DESPLEGARA NUEVAMENTE EL MENU. SI INGRESA E SE CERRARA LA CONSOLA: '); readln (letra);
+		if (letra = 'E') or (letra = 'e') then
+			loop:= false
+		else begin
+			clrscr;
+			MI_PROCESO_O_CODIGO_A_LOOPEAR
+		end;
+  end;
